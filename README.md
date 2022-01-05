@@ -2,6 +2,14 @@
 
 Convert URL of Twemoji image on twitter.com to emoji text.
 
+## Installation
+
+```powershell
+npm install url2emoji
+```
+
+## Usage
+
 ```typescript
 import { url2emoji } from "url2emoji";
 
