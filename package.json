@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Convert URL of Twemoji image on twitter.com to emoji text.",
   "main": "dist/index.js",
-  "types": "index.d.ts",
+  "types": "dist/index.d.ts",
   "scripts": {
     "build": "npx tsc",
     "format": "npx prettier --write src/**/*",
