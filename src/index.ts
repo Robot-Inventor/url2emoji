@@ -3,8 +3,8 @@
  * @param url url of the image
  * @returns emoji
  * @example ```typescript
- * const emoji_svg = url_to_emoji("https://abs-0.twimg.com/emoji/v2/svg/1f600.svg");
- * const emoji_png = url_to_emoji("https://abs-0.twimg.com/emoji/v2/72x72/1f600.png");
+ * const emoji_svg = url2emoji("https://abs-0.twimg.com/emoji/v2/svg/1f600.svg");
+ * const emoji_png = url2emoji("https://abs-0.twimg.com/emoji/v2/72x72/1f600.png");
  * console.log(emoji_svg); // 😀
  * console.log(emoji_png); // 😀
  * ```
