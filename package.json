@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/Robot-Inventor/url2emoji#readme",
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "5.44.0",
+    "@typescript-eslint/eslint-plugin": "5.46.1",
     "eslint-config-prettier": "8.5.0",
     "prettier": "2.8.0",
     "typescript": "4.9.3"
