@@ -29,7 +29,7 @@
   "homepage": "https://github.com/Robot-Inventor/url2emoji#readme",
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "7.2.0",
-    "eslint-config-prettier": "8.6.0",
+    "eslint-config-prettier": "8.10.0",
     "prettier": "3.2.5",
     "typescript": "5.4.2"
   },
